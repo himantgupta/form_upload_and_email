@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Sriharan S",
+  "author": "Sriharan S/Himant",
   "dependencies": {
     "express": "^4.13.4",
     "body-parser": "^1.15.2",    
