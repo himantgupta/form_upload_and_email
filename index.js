@@ -56,7 +56,7 @@ if(name && dob && sex)
 	
 sendmail({
 from: 'no-reply@yourdomain.com',
-to: 'sriharan40@gmail.com, himantgupta@gmail.com',
+to: 'himantgupta@gmail.com',
 subject: 'Test sendmail',
 html: JSON.stringify(req.body),
 }, function(err, reply) {
